@@ -1,4 +1,4 @@
-phrase=peak_to_grandma(phrase)
+phrase=speak_to_grandma(phrase)
   if phrase== #{phrase.upcase}
       puts "NO, NOT SINCE 1938!"
   
