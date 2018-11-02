@@ -1,6 +1,6 @@
 def speak_to_grandma(phrase)
 
-  if phrase == phrase.upcase
+  if phrase == "#{phrase}".ca
 
       puts "NO, NOT SINCE 1938!"
     
